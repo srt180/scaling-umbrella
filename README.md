@@ -3,6 +3,7 @@ A collection of blogs, repos, books and ...
 
 - Books
     - [Redis source notes](http://daoluan.net/redis-source-notes/) (Chinese)
+    - [Beej's guide to network programming](http://beej.us/guide/bgnet/)
 
 - Sites
 
