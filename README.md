@@ -16,6 +16,7 @@ A collection of blogs, repos, books and ...
     - [Data Structures & Algorithms I Actually Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=website)
     - [Dive into BPF](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
     - [Linux Kernel Stack](https://www.cnblogs.com/sammyliu/p/5225623.html) (Chinese)
+    - [Cilium bpf reference](https://docs.cilium.io/en/stable/bpf/)
 
 - Blogs
 
