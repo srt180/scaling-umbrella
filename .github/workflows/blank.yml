@@ -27,18 +27,9 @@ jobs:
         id: branch-name
         uses: tj-actions/branch-names@v4.9
 
-      - name: Running on the default branch.
-        if: steps.branch-name.outputs.is_default == 'true'
+      - name: Print current branch.
         run: |
-          echo "Running on default: ${{ steps.branch-name.outputs.current_branch }}"
-        # Outputs: "Running on default: main".
-
-      - name: Running on a pull request branch.
-        if: steps.branch-name.outputs.is_default == 'false'
-        run: |
-          echo "Running on pr: ${{ steps.branch-name.outputs.current_branch }}"
-        # Outputs: "Running on pr: feature/test".
-
+          echo "Running on: ${{ steps.branch-name.outputs.current_branch }}"
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
