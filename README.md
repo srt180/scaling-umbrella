@@ -17,6 +17,7 @@ A collection of blogs, repos, books and ...
     - [Dive into BPF](https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/)
     - [Linux Kernel Stack](https://www.cnblogs.com/sammyliu/p/5225623.html) (Chinese)
     - [Cilium bpf reference](https://docs.cilium.io/en/stable/bpf/)
+    - [flink](http://niyanchun.com/tag/flink/)
 
 - Blogs
 
